@@ -1,7 +1,7 @@
 # ARGame-TestTask
  
 <br>Game items are divided by configs (ScriptbleObject). <br>Configs in Resources/Configs<br/>
-<br>ObjectType CO is a variant of an object that can use a specific prefab, ObjectListCO is a list of objects that will be used in the project<br/>
+<br>ObjectType SO is a variant of an object that can use a specific prefab, ObjectListSO is a list of objects that will be used in the project<br/>
 <br>ObjectPooling is used for optimization, it is also used for sounds.<br/>
 <br>Also, the FPS is limited to 30, to reduce memory and battery consumption.<br/>
 <br>The inventory is also divided into CO for convenience. Default, Basic, and Modified are variations of items for the UI inventory, the location of inventory items can also be configured using the InventoryDisplay config<br/>
